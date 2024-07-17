@@ -1,0 +1,5 @@
+[Bell]
+SystemBell=false
+
+[Keyboard]
+AccessXBeep=false

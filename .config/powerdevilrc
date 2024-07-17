@@ -1,0 +1,8 @@
+[Battery][SuspendAndShutdown]
+AutoSuspendIdleTimeoutSec=900
+
+[LowBattery][Display]
+UseProfileSpecificDisplayBrightness=false
+
+[LowBattery][SuspendAndShutdown]
+AutoSuspendIdleTimeoutSec=120
